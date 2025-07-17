@@ -2,7 +2,7 @@
 
 ### | Data Science Explorer | Creative Insight Generator 📊
 
-🎓 B.S. in Data Science & Applications | IIT Madras 
+🎓 B.S. in Data Science & Applications | IIT Madras     
 🎓 B.Sc. in Mathematics | Christ Church College   
 📍 Kanpur, Uttar Pradesh  
 📫 [Email](mailto:raghavcareer1201@gmail.com) | [LinkedIn](https://www.linkedin.com/in/raghav-dixit-a1b921183) | [GitHub](https://github.com/raghav-works)
