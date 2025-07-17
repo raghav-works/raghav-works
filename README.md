@@ -79,10 +79,21 @@ Visualized insights with Seaborn & Matplotlib, and improved model accuracy via C
 
 ## 📜 Certifications
 
-- 📊 [Google Data Analytics – Coursera](https://www.coursera.org/account/accomplishments/specialization/U4KWNQMFG1VD)
-- 🧠 [Google AI Essentials – Coursera](https://www.coursera.org/account/accomplishments/records/QJ5R4P01D18O)
-- 📈 [Microsoft Power BI Data Analyst – Coursera](https://www.coursera.org/account/accomplishments/professional-cert/certificate/SFE2HJE5YEQN)
-- 🔬 **ML using NumPy** – IIT Madras
+📊 [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/U4KWNQMFG1VD)
+Coursera | [Insert Month & Year]
+Developed proficiency in data cleaning, visualization, and analysis using tools such as Excel, SQL, and R. Covered the complete data analysis process from asking questions to sharing insights.
+
+🧠 [Google AI Essentials](https://www.coursera.org/account/accomplishments/records/QJ5R4P01D18O)
+Coursera | [Insert Month & Year]
+Gained a foundational understanding of artificial intelligence, including ethical considerations, types of AI models, and real-world applications.
+
+📈 [Microsoft Power BI Data Analyst](https://www.coursera.org/account/accomplishments/professional-cert/certificate/SFE2HJE5YEQN)
+Coursera | [Insert Month & Year]
+Learned to create insightful dashboards and reports using Power BI. Developed skills in data modeling, DAX functions, and interactive visualization.
+
+🔬 [Machine Learning using NumPy](https://drive.google.com/file/d/1f4Oy7PzVknyZyq04NTCpIaZAGju3XAg4/view?usp=drive_link)
+IIT Madras | [Insert Month & Year]
+Gained practical knowledge in implementing machine learning algorithms from scratch using NumPy, understanding the math and logic behind core ML concepts.
 
 ---
 
