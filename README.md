@@ -79,9 +79,9 @@ Visualized insights with Seaborn & Matplotlib, and improved model accuracy via C
 
 ## 📜 Certifications
 
-- 📊 **[Google Data Analytics** – Coursera](https://www.coursera.org/account/accomplishments/specialization/U4KWNQMFG1VD)
-- 🧠 **[Google AI Essentials** – Coursera](https://www.coursera.org/account/accomplishments/records/QJ5R4P01D18O)
-- 📈 **[Microsoft Power BI Data Analyst** – Coursera](https://www.coursera.org/account/accomplishments/professional-cert/certificate/SFE2HJE5YEQN)
+- 📊 [Google Data Analytics – Coursera](https://www.coursera.org/account/accomplishments/specialization/U4KWNQMFG1VD)
+- 🧠 [Google AI Essentials – Coursera](https://www.coursera.org/account/accomplishments/records/QJ5R4P01D18O)
+- 📈 [Microsoft Power BI Data Analyst – Coursera](https://www.coursera.org/account/accomplishments/professional-cert/certificate/SFE2HJE5YEQN)
 - 🔬 **ML using NumPy** – IIT Madras
 
 ---
