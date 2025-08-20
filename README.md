@@ -56,6 +56,10 @@ Interactive Power BI dashboard analyzing food category KPIs, revenue trends, ord
 Full-stack Flask app with role-based access for users/admins.  
 Supports quiz creation, scoring, chapter/subject filtering, and dynamic frontend validation.
 
+###  🔹 [MAD2_PROJECT](https://github.com/raghav-works/MAD2_PROJECT) - *Interactive Quiz Master Platform*
+Developed a full-stack web application using Flask (Backend), Vue.js (Frontend), and SQLite (Database).
+Implemented role-based access (Admin & User), dynamic quiz creation, subject/chapter management, and real-time scoring with a responsive UI.
+
 ### 🔹 [ML_Project_Corizo](https://github.com/raghav-works/ML_Project_Corizo) – *Internship at Corizo*
 Built end-to-end ML pipelines on wine and flight datasets.  
 Used Scikit-learn to apply and tune models like Ridge, Decision Tree, Random Forest.  
