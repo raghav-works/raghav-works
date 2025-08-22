@@ -98,6 +98,11 @@ Coursera | [July 2025]
 
 Learned to create insightful dashboards and reports using Power BI. Developed skills in data modeling, DAX functions, and interactive visualization.
 
+📊 [Google Business Intelligence](https://www.coursera.org/account/accomplishments/professional-cert/EKQYLOGRFAST)
+Coursera | August 2025
+
+Gained expertise in data modeling, ETL pipelines, and dashboard development using SQL, Tableau, and BigQuery. Learned to design and implement BI solutions across the full lifecycle—from planning projects and preparing data to building interactive reports and delivering actionable insights for stakeholders.
+
 🔬 [Machine Learning using NumPy](https://drive.google.com/file/d/1f4Oy7PzVknyZyq04NTCpIaZAGju3XAg4/view?usp=drive_link)
 IIT Madras | [September 2024]
 
