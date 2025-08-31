@@ -70,7 +70,7 @@ Visualized insights with Seaborn & Matplotlib, and improved model accuracy via C
 ## 💼 Experience
 
 ### 🧾 Freelance Data Analyst – Amar Ayurveda
-📅 Jun 2024 – Jun 2025
+📅 Jun 2024 – Jun 2025<br>
 🔧 *Tech Stack*: Excel, Data Visualization
 
 - Managed and structured sales and order data from WhatsApp and phone calls, creating organized daily logs for sales and inventory tracking.
