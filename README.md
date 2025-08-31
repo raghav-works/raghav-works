@@ -69,6 +69,15 @@ Visualized insights with Seaborn & Matplotlib, and improved model accuracy via C
 
 ## 💼 Experience
 
+### 🧾 Freelance Data Analyst – Amar Ayurveda
+📅 Jun 2024 – Jun 2025
+🔧 *Tech Stack*: Excel, Data Visualization
+
+- Managed and structured sales and order data from WhatsApp and phone calls, creating organized daily logs for sales and inventory tracking.
+- Analyzed product sales trends, repeat purchase behavior, and seasonal demand patterns to generate actionable business insights.
+- Delivered weekly reports to the business owner, supporting better stock decisions, seasonal inventory planning, and improving focus on top-selling products.
+- Enhanced operational efficiency by identifying demand cycles and providing data-driven recommendations for marketing and inventory management.
+
 ### 🧪 Data Science Intern – Corizo  
 📅 Jan 2024 – Apr 2024  
 🔧 *Tech Stack*: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
