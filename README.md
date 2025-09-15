@@ -22,10 +22,19 @@ I am a dedicated Data Science aspirant currently pursuing a B.S. in Data Science
 
 ## 🧠 Skills & Tools
 
-**Languages**: Python, SQL, HTML/CSS  
-**Libraries**: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn  
-**Tools**: Power BI, Tableau, Flask, Excel, Git, GitHub  
-**Concepts**: Machine Learning, Data Visualization, Feature Engineering, ETL, Dashboards
+**Languages**: Python, SQL (PostgreSQL), HTML/CSS, JavaScript
+
+**Libraries**: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Flask, VueJS, Jinja2 Templates, Bootstrap, Redis, Celery  
+
+**Tools**: Power BI, Tableau, Excel, Git, GitHub, JWT, Redis, Celery, SQLite  
+
+**Data Science & Machine Learning**: Statistics, Data Cleaning, Data Visualization, Feature Engineering, Model Evaluation, Regression Models (Linear, Ridge), Classification Models (Logistic Regression, Decision                                       Tree, Random Forest, XGBoost, LightGBM, KNN), Cross-Validation, Hyperparameter Tuning, ETL Pipelines, Standardization, Encoding, Caching Strategies
+
+**Web Development**: RESTful APIs, Authentication & Authorization, Secure Data Handling, Responsive UI Design, Workflow Automation, Multi-user Role Management
+
+**Data Handling & Analytics**: Data Wrangling, Exploratory Data Analysis (EDA), Dashboard Creation, Sales Trend Analysis, Inventory Management, Seasonal Pattern Recognition, Business Insights Generation
+
+**Soft Skills**: Problem Solving, Analytical Thinking, Communication of Insights, Report Automation, Actionable Decision Support
 
 ---
 
