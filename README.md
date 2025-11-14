@@ -78,6 +78,16 @@ Visualized insights with Seaborn & Matplotlib, and improved model accuracy via C
 
 ## 💼 Experience
 
+### 🧪 Research Intern — Cybersecurity, IIT Madras
+📅 Oct 2025 – Present<br>
+🔧 *Tech Stack*: Python, RAG, LLMs, Data Processing, Git, Docker
+
+- Developed secure and scalable Retrieval-Augmented Generation (RAG) pipelines for intelligent document search and analysis in cybersecurity workflows.
+- Built Python-based preprocessing and transformation pipelines, ensuring high-quality data preparation for ML and LLM tasks.
+- Evaluated performance of retrieval and generation models, improving accuracy, latency, and overall system reliability.
+- Collaborated with cross-functional research teams to integrate solutions, follow best practices, and maintain high code quality using Git/GitHub.
+- Contributed to designing safer AI workflows by researching model vulnerabilities, secure prompt engineering, and robust retrieval strategies.
+
 ### 🧾 Freelance Data Analyst – Amar Ayurveda
 📅 Jun 2024 – Jun 2025<br>
 🔧 *Tech Stack*: Excel, Data Visualization
